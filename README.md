@@ -25,12 +25,9 @@ Requirements:
 ·	Have SQL Server Management Studio (SSMS) installed
 
 Restore the "MoviesDB.bacpac" file:
-·	In SSMS connect to your local server instance
-·	In Object Explorer - right click Databases 
-      Databases => Import Data-tier Application
-      
-      <img width="357" height="161" alt="image" src="https://github.com/user-attachments/assets/901538be-6113-46ce-a0e3-b16fe1326705" />
-
+·	In SSMS connect to your local server instance.
+·	In Object Explorer - right click Databases. 
+      Databases => Import Data-tier Application.
       Choose "Import from Local Disk" and select the "MoviesDB.bacpac" file
 · Follow the prompts and instructions
 
