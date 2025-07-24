@@ -19,4 +19,26 @@ For employees:
 ·	Log into system 
 ·	Sell tickets
 
+## Setup Instructions:
+Requirements:
+·	Have Visual Studio installed
+·	Have SQL Server Management Studio (SSMS) installed
+
+Restore the "MoviesDB.bacpac" file:
+·	In SSMS connect to your local server instance
+·	In Object Explorer - right click Databases 
+      Databases => Import Data-tier Application
+      
+      <img width="357" height="161" alt="image" src="https://github.com/user-attachments/assets/901538be-6113-46ce-a0e3-b16fe1326705" />
+
+      Choose "Import from Local Disk" and select the "MoviesDB.bacpac" file
+· Follow the prompts and instructions
+
+Configure the project:
+· In Visual Studio open "CMPG223_Group6_Project.sln"
+· Update the connection string within the project to your connection string created in SSMS.
+· Build and run the project.
+· Test the database connectivity.
+
+
 
