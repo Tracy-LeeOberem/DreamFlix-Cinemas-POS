@@ -27,13 +27,13 @@ For employees:
 ·	Sell tickets
 
 ## Setup Instructions:
-Requirements:
+------Requirements:------
 ·	Have Visual Studio installed
 <br>
 ·	Have SQL Server Management Studio (SSMS) installed
 <br>
 <br>
-Restore the "MoviesDB.bacpac" file:
+------Restore the "MoviesDB.bacpac" file:------
 <br>
 ·	In SSMS connect to your local server instance.
 <br>
@@ -46,7 +46,7 @@ Restore the "MoviesDB.bacpac" file:
 · Follow the prompts and instructions
 <br>
 <br>
-Configure the project:
+------Configure the project:------
 <br>
 · In Visual Studio open "CMPG223_Group6_Project.sln"
 <br>
