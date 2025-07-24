@@ -28,6 +28,7 @@ For employees:
 
 ## Setup Instructions:
 ------Requirements:------
+<br>
 ·	Have Visual Studio installed
 <br>
 ·	Have SQL Server Management Studio (SSMS) installed
