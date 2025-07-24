@@ -8,11 +8,17 @@ The system has built in access controls to only allow employees and administrato
 ## Features:
 For administrators:
 ·	Log into system
+<br>
 ·	Maintenance of movies
+<br>
 ·	Maintain timeslots
+<br>
 ·	Maintain MovieRooms
+<br>
 ·	Maintain RoomSeats
+<br>
 ·	Maintenance of employees  
+<br>
 ·	Request reports
  
 For employees:
