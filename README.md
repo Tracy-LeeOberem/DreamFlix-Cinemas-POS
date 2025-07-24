@@ -22,6 +22,7 @@ For employees:
 ## Setup Instructions:
 Requirements:
 ·	Have Visual Studio installed
+<br>
 ·	Have SQL Server Management Studio (SSMS) installed
 
 Restore the "MoviesDB.bacpac" file:
